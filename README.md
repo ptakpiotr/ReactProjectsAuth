@@ -9,10 +9,10 @@
 Project that serves as backend API for authentication & authorization and also for SignalR for React Projects (especially: [Czatter](https://github.com/ptakpiotr/czatter-ui))
 
 ## Technologies
-- ASP .NET 6
+- ASP .NET 6 Web API MVC
 - SignalR
 - Ef Core
-
+- Swagger (OpenAPI)
 
 ## Usage
 Download (make sure you have dotnet installed or use Dockerfile provided with the projects) and fill in the appsettings.json with proper values.
